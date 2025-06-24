@@ -21,3 +21,6 @@ Power BI Desktop
 
 Microsoft Excel
 
+## Snapshots
+
+![image](https://github.com/user-attachments/assets/3720402f-bd37-4884-a5a9-8790c7b24785)
